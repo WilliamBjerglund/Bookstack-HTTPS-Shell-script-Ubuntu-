@@ -1,4 +1,5 @@
-# Bookstack-HTTPS-Shell-script-Ubuntu-
+# Bookstack-HTTPS-Shell-script-Ubuntu.
+# PLEASE READ README AND USE THE CODE VIEW NOT PREVIEW:
 This is a simple shell script for a bash terminal to download Bookstack on Ubuntu and Make it Https right away:
 Note: 
 as it stands since your mail is different than everyone elses the server's mail is not set up so making accounts is not possible.
